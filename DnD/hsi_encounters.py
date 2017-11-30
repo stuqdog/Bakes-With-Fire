@@ -36,9 +36,9 @@ tables['light_jungle_intelligent'] = {
 	'16':'Lizardmen',
 	'17':'Lizardmen',
 	'18':'Nereid'
-};
+}
 
-SFI.tables.LightJungleElemental = {
+tables['light_jungle_elemental'] = {
 	'3':'Magma Imp',
 	'4':'Ooze Imp',
 	'5':'Steam Imp',
